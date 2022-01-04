@@ -1,0 +1,27 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+.sub-head{
+    font-size: 13px;
+    color: black;
+}
+
+p{
+    font-size: 16px;
+}
+
+div{
+    width: 400px;
+    
+}
+
+.btn-danger .btn-warning{
+    font-size: 17px;
+}
+
+canvas{
+    margin-top: 210px;
+   
+}
